@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="511" height="431" viewBox="0 0 511 431">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="48" y="82" width="511" height="431" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Scroll_Group_1" data-name="Scroll Group 1" transform="translate(-48 -82)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="Group_74733" data-name="Group 74733" transform="translate(-132 -2706)" opacity="0.63">
+      <g id="Ellipse_2328" data-name="Ellipse 2328" transform="translate(132 2706)" fill="none" stroke="#8483ff" stroke-width="1" opacity="0.21">
+        <circle cx="367.5" cy="367.5" r="367.5" stroke="none"/>
+        <circle cx="367.5" cy="367.5" r="367" fill="none"/>
+      </g>
+      <g id="Ellipse_2329" data-name="Ellipse 2329" transform="translate(222 2796)" fill="none" stroke="#8483ff" stroke-width="1" opacity="0.21">
+        <circle cx="277" cy="277" r="277" stroke="none"/>
+        <circle cx="277" cy="277" r="276.5" fill="none"/>
+      </g>
+      <g id="Ellipse_2330" data-name="Ellipse 2330" transform="translate(307 2881)" fill="none" stroke="#8483ff" stroke-width="1" opacity="0.21">
+        <circle cx="192" cy="192" r="192" stroke="none"/>
+        <circle cx="192" cy="192" r="191.5" fill="none"/>
+      </g>
+      <g id="Ellipse_2331" data-name="Ellipse 2331" transform="translate(389 2963)" fill="none" stroke="#8483ff" stroke-width="1" opacity="0.21">
+        <circle cx="110" cy="110" r="110" stroke="none"/>
+        <circle cx="110" cy="110" r="109.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

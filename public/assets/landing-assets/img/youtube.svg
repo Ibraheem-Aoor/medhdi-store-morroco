@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="9.844" viewBox="0 0 14 9.844">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8d8af4"/>
+      <stop offset="1" stop-color="#78b8ff"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_awesome-youtube" data-name="Icon awesome-youtube" d="M14.116,3.29a1.759,1.759,0,0,0-1.238-1.246,41.572,41.572,0,0,0-5.47-.294,41.572,41.572,0,0,0-5.47.294A1.759,1.759,0,0,0,.7,3.29,18.454,18.454,0,0,0,.408,6.682,18.454,18.454,0,0,0,.7,10.073,1.733,1.733,0,0,0,1.939,11.3a41.572,41.572,0,0,0,5.47.294,41.572,41.572,0,0,0,5.47-.294,1.733,1.733,0,0,0,1.238-1.226,18.454,18.454,0,0,0,.293-3.392,18.454,18.454,0,0,0-.293-3.392ZM5.976,8.763V4.6L9.636,6.682Z" transform="translate(-0.408 -1.75)" fill="url(#linear-gradient)"/>
+</svg>

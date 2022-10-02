@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="956" height="1120" viewBox="0 0 956 1120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.127" stop-color="#fff" stop-opacity="0.949"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_75883" data-name="Group 75883" transform="translate(-200 -3411)">
+    <g id="Ellipse_2337" data-name="Ellipse 2337" transform="translate(412 3637)" fill="#fff" stroke="#8c8bf4" stroke-width="1" opacity="0.12">
+      <ellipse cx="266" cy="262" rx="266" ry="262" stroke="none"/>
+      <ellipse cx="266" cy="262" rx="265.5" ry="261.5" fill="none"/>
+    </g>
+    <g id="Group_75882" data-name="Group 75882">
+      <g id="Ellipse_2335" data-name="Ellipse 2335" transform="translate(200 3411)" fill="#fff" stroke="#8c8bf4" stroke-width="1" opacity="0.12">
+        <ellipse cx="478" cy="506" rx="478" ry="506" stroke="none"/>
+        <ellipse cx="478" cy="506" rx="477.5" ry="505.5" fill="none"/>
+      </g>
+      <g id="Ellipse_2336" data-name="Ellipse 2336" transform="translate(317 3508)" fill="#fff" stroke="#8c8bf4" stroke-width="1" opacity="0.12">
+        <ellipse cx="366" cy="382" rx="366" ry="382" stroke="none"/>
+        <ellipse cx="366" cy="382" rx="365.5" ry="381.5" fill="none"/>
+      </g>
+      <ellipse id="_1a768897580b2938c7483e4a24e2514e-hot-actors-actors-male" data-name="1a768897580b2938c7483e4a24e2514e-hot-actors-actors-male" cx="471" cy="466.5" rx="471" ry="466.5" transform="translate(212 3598)" opacity="0.79" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
