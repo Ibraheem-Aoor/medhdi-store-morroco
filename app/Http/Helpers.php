@@ -172,7 +172,10 @@ if (!function_exists('format_price')) {
     {
         if (get_setting('decimal_separator') == 1) {
             $fomated_price = round($price, get_setting('no_of_decimals'));
-        } 
+        } else {
+            $fomated_price = round($price, get_setting('no_of_decimals'));
+        }
+
         if (get_setting('symbol_format') == 1) {
             return currency_symbol() . $fomated_price;
         } else if (get_setting('symbol_format') == 3) {
