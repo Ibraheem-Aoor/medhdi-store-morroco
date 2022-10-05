@@ -113,7 +113,6 @@
     @if ($type == 'Seller' || $type == 'All')
         <th data-breakpoints="lg">{{ translate('Added By') }}</th>
     @endif
-    <th data-breakpoints="sm">{{ translate('Info') }}</th>
     <th data-breakpoints="md">{{ translate('Total Stock') }}</th>
     <th data-breakpoints="lg">{{ translate('Todays Deal') }}</th>
     <th data-breakpoints="lg">{{ translate('Published') }}</th>
