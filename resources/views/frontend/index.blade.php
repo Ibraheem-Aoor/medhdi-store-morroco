@@ -17,7 +17,7 @@
 
 
                 <div class="@if ($num_todays_deal > 0) col-lg-7 @else col-lg-9 @endif">
-                    @if (get_setting('home_slider_images') != null)
+                    @if (get_setting('home_slider_images' , null , app()->getLocale()) != null)
                         <div class="aiz-carousel dots-inside-bottom" data-arrows="true" data-dots="true"
                             data-autoplay="true">
                             @php

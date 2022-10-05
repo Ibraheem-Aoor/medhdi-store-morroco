@@ -337,7 +337,7 @@ class OrderController extends Controller
         foreach ($seller_products as $seller_product) {
             $order = new Order;
             $order->combined_order_id = $combined_order->id;
-         
+
             $order->shipping_address = $combined_order->shipping_address;
             $order->shipping_type = $carts[0]['shipping_type'];
             if ($carts[0]['shipping_type'] == 'pickup_point') {
