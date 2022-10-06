@@ -29,7 +29,7 @@
                             @endphp
                             @foreach ($slider_images as $key => $value)
                                 <div class="carousel-box">
-                                    <a href="{{ json_decode(get_setting('home_slider_links'), true)[$key] }}">
+                                    <a href="{{ @json_decode(get_setting('home_slider_links' , null , app()->getLocale()), true)[$key] }}">
                                         <img class="d-block mw-100 img-fit rounded shadow-sm overflow-hidden slider-img-edit"
                                             src="{{ uploaded_asset($slider_images[$key]) }}"
                                             alt="{{ env('APP_NAME') }} promo"

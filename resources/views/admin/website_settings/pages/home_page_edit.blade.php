@@ -51,7 +51,7 @@
                                                     <input type="hidden" name="types[]" value="home_slider_links">
                                                     <input type="text" class="form-control" placeholder="http://"
                                                         name="home_slider_links[]"
-                                                        value="{{ json_decode(get_setting('home_slider_links'), true)[$key] }}">
+                                                        value="{{ @json_decode(get_setting('home_slider_links' , null , app()->getLocale()), true)[$key] }}">
                                                 </div>
                                             </div>
                                             <div class="col-md-auto">
